@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### interactions
+
+https://github.com/godotengine/godot/issues/82517#issuecomment-1743061607
+
+https://github.com/godotengine/godot/issues/82676#issuecomment-1743126373
+
+https://github.com/godotengine/godot-proposals/issues/7965#issuecomment-1745685732
 <!--
 **mathphye/mathphye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
